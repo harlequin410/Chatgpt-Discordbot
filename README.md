@@ -1,5 +1,5 @@
 # Chatgpt Discordbot
-simple discord bot with chat gpt and some custom stuff
+simple discord bot with chat gpt and some custom stuff  
 #Tokens  
 Set your tokens in the enviroment variables:  
 DISCORD_BOT_TOKEN={yourtoken}  
