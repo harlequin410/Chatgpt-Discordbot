@@ -1,0 +1,7 @@
+{
+    "name": "Chatgpt Discordbot",
+    "description": "a simple discord bot with chat gpt and heroku deployment",
+    "repository": "https://github.com/harlequin410/Chatgpt-Discordbot",
+    "logo": "https://node-js-sample.herokuapp.com/node.png",
+    "keywords": ["python", "discord", "bot"]
+  }
