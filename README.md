@@ -13,4 +13,4 @@ a Chat Gpt token [here](https://beta.openai.com/account/api-keys).
 #Install
 1. git clone oder download zip  
 2. pip install -r requirements.txt  
-3 run python main.py  
+3. run python main.py  
