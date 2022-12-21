@@ -8,3 +8,5 @@ CHAT_GPT_TOKEN={yourtoken}
 
 You need to generate a Discord Bot token for this like this and
 a Chat Gpt token here.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
