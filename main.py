@@ -39,7 +39,6 @@ async def on_ready():
 @bot.hybrid_command(name='chat', description='chat with gpt')
 async def chat(ctx, *, question):
     # Send the question to Chat GPT
-    print(question)
     response = openai.Completion.create(
         model=gmodel,
         prompt=question,
