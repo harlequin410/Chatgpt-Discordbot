@@ -11,6 +11,6 @@ a Chat Gpt token [here](https://beta.openai.com/account/api-keys).
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 #Install
-1. git clone oder download zip
-2. pip install -r requirements.txt
-3 run python main.py
+1. git clone oder download zip  
+2. pip install -r requirements.txt  
+3 run python main.py  
